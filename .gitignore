@@ -1,0 +1,24 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações e segredos
+.env
+.env.*
+!.env.example
+wp-config.php
+
+# Arquivos desnecessários do WordPress
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/themes/
+
+# Cache e logs
+/wp-content/cache/
+/wp-content/litespeed/
+/wp-content/upgrade/
+/wp-content/debug.log
+/debug.log
+/error_log
