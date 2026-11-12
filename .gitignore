@@ -12,8 +12,6 @@ wp-config.php
 # Arquivos desnecessários do WordPress
 /wp-admin/
 /wp-includes/
-/wp-content/plugins/
-/wp-content/themes/
 
 # Cache e logs
 /wp-content/cache/
